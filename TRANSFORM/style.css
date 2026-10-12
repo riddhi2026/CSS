@@ -1,0 +1,82 @@
+
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: lightgray;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    transition: 1s;
+}
+
+/* Scale */
+/*.box:hover {
+    transform: scale(1.5);
+}
+
+/* ScaleX and ScaleY */
+
+.box:hover {
+    transform: scaleX(2);
+}
+*/
+
+/*
+.box:hover {
+    transform: scaleY(2);
+}
+*/
+
+/* Skew */
+/*
+.box:hover {
+    transform: skew(25deg);
+}
+*/
+
+/*
+.box:hover {
+    transform: skewX(30deg);
+}
+*/
+
+/*
+.box:hover {
+    transform: skewY(30deg);
+}
+*/
+
+/* Rotate */
+/*
+.box:hover {
+    transform: rotate(45deg);
+}
+*/
+
+/*
+.box:hover {
+    transform: rotateX(90deg);
+}
+*/
+
+/*
+.box:hover {
+    transform: rotateY(90deg);
+}
+*/
+
+/* Translate */
+/*
+.box:hover {
+    transform: translateX(100px);
+}
+*/
+
+/*
+.box:hover {
+    transform: translateY(100px);
+}
+*/
